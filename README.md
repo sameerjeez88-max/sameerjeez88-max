@@ -45,11 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameerjeez88-max&show_icons=true&theme=tokyonight&hide_border=true" alt="Sameerjeez88-max's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerjeez88-max&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameerjeez88-max&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameerjeez88-max&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameerjeez88-max&theme=tokyonight" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameerjeez88-max&theme=tokyonight" alt="Top Languages by Commit" width="48%" />
 </p>
 
 ---
