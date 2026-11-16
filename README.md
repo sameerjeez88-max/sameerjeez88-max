@@ -34,8 +34,11 @@ Recognized as **Top Rated Plus (Top 1% Talent)** on Upwork with a 100% Job Succe
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**Laravel Task Manager**](https://github.com/sameerjeez88-max/laravel-task-manager) | A full-stack task management app with authentication, CRUD, and user-specific data. | `Laravel`, `PHP`, `MySQL`, `Tailwind` |
 | [**Custom Login Styler**](https://github.com/sameerjeez88-max/custom-login-styler) | Beautify WordPress login page with custom backgrounds, form styles, and custom logos. | `PHP`, `WordPress API`, `CSS3` |
 | [**WhatsApp Chat Button**](https://github.com/sameerjeez88-max/whatsapp-chat-button) | Floating WhatsApp chat button with customizable colors, position, and pre-filled message. | `PHP`, `JavaScript`, `CSS3` |
+| [**Finance UI/UX Design**](https://github.com/sameerjeez88-max/figma-ui-ux-design) | Modern finance website UI/UX design with 6-step loan application flow. | `Figma`, `UI/UX`, `Prototyping` |
+| [**Graphic Design Portfolio**](https://github.com/sameerjeez88-max/graphic-design-portfolio) | Premium brand identity and graphic design showcase with 22+ years of expertise. | `Figma`, `Adobe Suite`, `Branding` |
 
 ---
 
@@ -107,7 +110,7 @@ Recognized as **Top Rated Plus (Top 1% Talent)** on Upwork with a 100% Job Succe
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/rana-yasirmahy-ud-din-b4468624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/-01dec974b9b3b9f5b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="Upwork" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01dec974b9b3b9f5b8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="Upwork" height="30" width="40" /></a>
   <a href="mailto:fastekdots@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
   <a href="https://ranayasir.unaux.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="Website" height="30" width="40" /></a>
 </p>
